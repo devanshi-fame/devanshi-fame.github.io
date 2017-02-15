@@ -1,0 +1,594 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Ganpoka</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <!-- CSS -->
+    <!-- Bootstrap CSS
+	============================================ -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Icon Font CSS
+	============================================ -->
+    <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+    <!-- Plugins CSS
+	============================================ -->
+    <link rel="stylesheet" href="css/plugins.css">
+    <!-- Style CSS
+	============================================ -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Modernizer JS
+	============================================ -->
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body>
+<!-- Body main wrapper start -->
+<div class="wrapper fix">
+
+<!--Header Area Start-->
+<div class="header-area">
+   
+    <!--Header Top Start-->
+    <div class="header-top text-right">
+        <div class="container">
+            <div class="header-social">
+                <a href="javascript:void(0)"><i class="zmdi zmdi-facebook"></i></a>
+                <a href="javascript:void(0)"><i class="zmdi zmdi-rss"></i></a>
+                <a href="javascript:void(0)"><i class="zmdi zmdi-google-plus"></i></a>
+                <a href="javascript:void(0)"><i class="zmdi zmdi-pinterest"></i></a>
+                <a href="javascript:void(0)"><i class="zmdi zmdi-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+    <!--Header Top End-->
+    
+    <!--Header Bottom Start-->
+    <div class="header-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                   
+                    <!--Navbar Header Start-->
+                    <div class="navbar-header">
+                        <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu">
+                            <i class="zmdi zmdi-menu menu-open"></i>
+                            <i class="zmdi zmdi-close menu-close"></i>
+                        </button>
+                        <a href="index.html" class="logo navbar-brand"><img src="img/logo.png" alt="logo"></a>
+                    </div>
+                    <!--Navbar Header End-->
+                    
+                    <!--Header Search Start-->
+                    <div class="header-search float-right">
+                        <button class="search-toggle"> <i class="zmdi zmdi-search s-open"></i> <i class="zmdi zmdi-close s-close"></i> </button>
+                        <div class="search-form">
+                            <form action="javascript:void(0)">
+                                <label><i class="zmdi zmdi-search"></i></label>
+                                <input type="text" placeholder="Search">
+                            </form>
+                        </div>
+                    </div>
+                    <!--Header Search End-->
+                    
+                    <!--Main Menu Start-->
+                    <div class="main-menu collapse navbar-collapse float-right" id="main-menu">
+                        <nav>
+                            <ul>
+                                <li class="active"><a href="#hero-area">home</a></li>
+                                <li><a href="#feature-area">feature</a></li>
+                                <li><a href="#gallery-area">gallery</a></li>
+                                <li><a href="#event-area">event</a></li>
+                                <li><a href="#video-area">video</a></li>
+                                <li><a href="#blog-area">blog</a></li>
+                                <li><a href="#footer-area">contact us</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <!--Main Menu End-->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Header Bottom End-->
+    
+</div>
+<!--Header Area End-->
+
+<!--Hero Area Start-->
+<div id="hero-area" class="hero-area hero-area">
+   
+    <!--Hero Slider-->
+    <div class="hero-slider">
+       
+        <!--Hero Slide Item Start-->
+        <div class="hs-item">
+            <!--Hero Slide Image-->
+            <img src="img/hero/1.jpg" alt="">
+            <!--Hero Slide Content-->
+            <div class="hs-content text-center">
+                <div class="container">
+                    <h1>Music the Bonorum et Malorum</h1>
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                    <a href="#footer-area" data-scroll class="btn btn-round btn-xlg">contact now</a>
+                </div>
+            </div>
+        </div>
+        <!--Hero Slide Item End-->
+        
+        <!--Hero Slide Item Start-->
+        <div class="hs-item">
+            <!--Hero Slide Image-->
+            <img src="img/hero/2.jpg" alt="">
+            <!--Hero Slide Content Start-->
+            <div class="hs-content text-center">
+                <div class="container">
+                    <h1>Music the Bonorum et Malorum</h1>
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                    <a href="#footer-area" data-scroll class="btn btn-round btn-xlg">contact now</a>
+                </div>
+            </div>
+        </div>
+        <!--Hero Slide Item End-->
+        
+    </div>
+    
+    <!--Slider Counter-->
+    <div class="slide-count">
+        <div class="container">
+            <p></p>
+        </div>
+    </div>
+    
+</div>
+<!--Hero Area End-->
+
+<!--Feature Area Start-->
+<div id="feature-area" class="feature-area bg-shape left pb-120 pt-120">
+    <div class="container">
+       
+       <!--Section Title Start-->
+        <div class="row">
+            <div class="section-title section-title-dark text-center col-xs-12 mb-80">
+                <h1>Featured <span>Albums</span></h1>
+            </div>
+        </div>
+       <!--Section Title End-->
+       
+       <!--Ganpoka Feature Start-->
+        <div class="row">
+           
+            <div class="feature-slider slick-slider">
+               
+                <!--Ganpoka Feature Item-->
+                <div class="feature-item">
+                    <div class="image"><img src="img/feature/1.jpg" alt=""></div>
+                    <div class="content fix">
+                        <div class="left float-left">
+                            <h4><a href="javascript:void(0)">Charpoka</a></h4>
+                            <p>by <a href="javascript:void(0)">Ashes</a></p>
+                        </div>
+                        <div class="right float-right"> <a href="javascript:void(0)" class="btn">buy now</a> </div>
+                    </div>
+                </div>
+                
+                <!--Ganpoka Feature Item-->
+                <div class="feature-item">
+                    <div class="image"><img src="img/feature/2.jpg" alt=""></div>
+                    <div class="content fix">
+                        <div class="left float-left">
+                            <h4><a href="javascript:void(0)">Charpoka</a></h4>
+                            <p>by <a href="javascript:void(0)">Ashes</a></p>
+                        </div>
+                        <div class="right float-right"> <a href="javascript:void(0)" class="btn">buy now</a> </div>
+                    </div>
+                </div>
+                
+                <!--Ganpoka Feature Item-->
+                <div class="feature-item">
+                    <div class="image"><img src="img/feature/3.jpg" alt=""></div>
+                    <div class="content fix">
+                        <div class="left float-left">
+                            <h4><a href="javascript:void(0)">Charpoka</a></h4>
+                            <p>by <a href="javascript:void(0)">Ashes</a></p>
+                        </div>
+                        <div class="right float-right"> <a href="javascript:void(0)" class="btn">buy now</a> </div>
+                    </div>
+                </div>
+                
+                <!--Ganpoka Feature Item-->
+                <div class="feature-item">
+                    <div class="image"><img src="img/feature/4.jpg" alt=""></div>
+                    <div class="content fix">
+                        <div class="left float-left">
+                            <h4><a href="javascript:void(0)">Charpoka</a></h4>
+                            <p>by <a href="javascript:void(0)">Ashes</a></p>
+                        </div>
+                        <div class="right float-right"> <a href="javascript:void(0)" class="btn">buy now</a> </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+           <!--Ganpoka Slick Arrows-->
+            <div class="slick-arrows text-center fix"></div>
+            
+        </div>
+       <!--Ganpoka Feature End-->
+       
+    </div>
+</div>
+<!--Feature Area End-->
+
+<!--Gallery Area Start-->
+<div id="gallery-area" class="gallery-area overlay pb-90 pt-120">
+    <div class="container">
+       
+       <!--Section Title Start-->
+        <div class="row">
+            <div class="section-title section-title-light text-center col-xs-12 mb-80">
+                <h1>awesome <span>Gallery</span></h1>
+            </div>
+        </div>
+       <!--Section Title End-->
+       
+       <!--Ganpoka Gallery Start-->
+        <div class="row">
+        
+            <!-- Gallery Filter -->
+            <div class="gallery-filter gallery-filter text-center mb-60">
+                <button class="active" data-filter="*">all</button>
+                <button data-filter=".music">music</button>
+                <button data-filter=".artists">artists</button>
+                <button data-filter=".conacert">conacert</button>
+                <button data-filter=".new">new</button>
+            </div>
+            
+            <!-- Gallery Grid -->
+            <div class="gallery-grid">
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item music artists col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/1.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/1.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item conacert new col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/2.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/2.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item music new col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/3.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/3.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item artists col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/4.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/4.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item conacert col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/5.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/5.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item new col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/6.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/6.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item artists conacert col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/7.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/7.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+                <!--Gallery Item-->
+                <div class="gallery-item gallery-item music col-md-3 col-sm-4 col-xs-12">
+                    <a href="img/gallery/8.jpg" class="gallery-image image-popup">
+                        <img src="img/gallery/8.jpg" alt="" />
+                        <h4>Written by Cicero</h4>
+                    </a>
+                </div>
+
+            </div>
+            
+        </div>
+       <!--Ganpoka Gallery End-->
+       
+    </div>
+</div>
+<!--Gallery Area End-->
+
+<!--Event Area Start-->
+<div id="event-area" class="event-area pb-80 pt-120">
+    <div class="container">
+       
+       <!--Section Title Start-->
+        <div class="row">
+            <div class="section-title section-title-light text-center col-xs-12 mb-80">
+                <h1>upcoming <span>events</span></h1>
+            </div>
+        </div>
+       <!--Section Title End-->
+       
+       <!--Ganpoka Event Start-->
+        <div class="row">
+           <div class="col-md-10 col-md-offset-1 col-xs-12">
+               
+               <!--Ganpoka Event Item-->
+               <div class="event-item fix">
+                   <div class="image float-left"><img src="img/event/1.jpg" alt=""></div>
+                   <div class="content float-left fix">
+                       <h3><a href="javascript:void(0)">Generators on the Internet</a></h3>
+                       <p><span>Date:</span>  26 jun 2015</p>
+                       <p><span>Location:</span>  Chandina, Comilla</p>
+                   </div>
+                   <div class="action float-right">
+                       <a href="javascript:void(0)" class="btn btn-lg">buy tickets</a>
+                   </div>
+               </div>
+               
+               <!--Ganpoka Event Item-->
+               <div class="event-item fix">
+                   <div class="image float-left"><img src="img/event/2.jpg" alt=""></div>
+                   <div class="content float-left fix">
+                       <h3><a href="javascript:void(0)">Generators on the Internet</a></h3>
+                       <p><span>Date:</span>  26 jun 2015</p>
+                       <p><span>Location:</span>  Chandina, Comilla</p>
+                   </div>
+                   <div class="action float-right">
+                       <a href="javascript:void(0)" class="btn btn-lg">buy tickets</a>
+                   </div>
+               </div>
+               
+               <!--Ganpoka Event Item-->
+               <div class="event-item fix">
+                   <div class="image float-left"><img src="img/event/3.jpg" alt=""></div>
+                   <div class="content float-left fix">
+                       <h3><a href="javascript:void(0)">Generators on the Internet</a></h3>
+                       <p><span>Date:</span>  26 jun 2015</p>
+                       <p><span>Location:</span>  Chandina, Comilla</p>
+                   </div>
+                   <div class="action float-right">
+                       <a href="javascript:void(0)" class="btn btn-lg">buy tickets</a>
+                   </div>
+               </div>
+               
+               <!--Ganpoka Event Item-->
+               <div class="event-item fix">
+                   <div class="image float-left"><img src="img/event/4.jpg" alt=""></div>
+                   <div class="content float-left fix">
+                       <h3><a href="javascript:void(0)">Generators on the Internet</a></h3>
+                       <p><span>Date:</span>  26 jun 2015</p>
+                       <p><span>Location:</span>  Chandina, Comilla</p>
+                   </div>
+                   <div class="action float-right">
+                       <a href="javascript:void(0)" class="btn btn-lg">buy tickets</a>
+                   </div>
+               </div>
+               
+           </div>
+        </div>
+       <!--Ganpoka Event End-->
+       
+    </div>
+</div>
+<!--Event Area End-->
+
+<!--Video Area Start-->
+<div id="video-area" class="video-area overlay pb-100 pt-120">
+    <div class="container">
+       
+       <!--Section Title Start-->
+        <div class="row">
+            <div class="section-title section-title-light text-center col-xs-12 mb-80">
+                <h1>Latest <span>videos</span></h1>
+            </div>
+        </div>
+       <!--Section Title End-->
+       
+       <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-xs-12">
+
+            <!--Video Gallery-->
+            <div class="row video-gallery">
+                <div class="video-big float-left">
+                    <a href="https://www.youtube.com/watch?v=gUGzIlCc0fM" class="video-gallery-popup"><img src="img/video-gallery/1.jpg" alt=""></a>
+                </div>
+                <div class="video-thumb float-left">
+                   <a href="https://www.youtube.com/watch?v=gUGzIlCc0fM" class="video-gallery-popup"><img src="img/video-gallery/2.jpg" alt=""></a>
+                   <a href="https://www.youtube.com/watch?v=5lwViA88RbU" class="video-gallery-popup"><img src="img/video-gallery/3.jpg" alt=""></a>
+                   <a href="https://www.youtube.com/watch?v=5lwViA88RbU" class="video-gallery-popup"><img src="img/video-gallery/4.jpg" alt=""></a>
+                </div>
+            </div>
+
+            </div>
+       </div>
+       
+    </div>
+</div>
+<!--Video Area End-->
+
+<!--Blog Area Start-->
+<div id="blog-area" class="blog-area pb-90 pt-120">
+    <div class="container">
+       
+       <!--Section Title Start-->
+        <div class="row">
+            <div class="section-title section-title-dark text-center col-xs-12 mb-80">
+                <h1>Recent <span>News</span></h1>
+            </div>
+        </div>
+       <!--Section Title End-->
+       
+       <!--Ganpoka Blog Start-->
+        <div class="row">
+            
+            <!--Single Blog Item-->
+            <div class="col-md-6 col-xs-12 mb-30">
+                <div class="blog-item">
+                    <div class="blog-image">
+                        <img src="img/blog/1.jpg" alt="">
+                        <span class="date">24 JUN</span>
+                    </div>
+                    <div class="blog-bottom fix">
+                        <h3><a href="javascript:void(0)">On the other hand we are not</a></h3>
+                        <a href="javascript:void(0)" class="btn btn-sm">read more</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!--Single Blog Item-->
+            <div class="col-md-6 col-xs-12 mb-30">
+                <div class="blog-item">
+                    <div class="blog-image">
+                        <img src="img/blog/2.jpg" alt="">
+                        <span class="date">28 JUN</span>
+                    </div>
+                    <div class="blog-bottom fix">
+                        <h3><a href="javascript:void(0)">On the other hand we are not</a></h3>
+                        <a href="javascript:void(0)" class="btn btn-sm">read more</a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+       <!--Ganpoka Blog End-->
+       
+    </div>
+</div>
+<!--Blog Area End-->
+
+<!--Footer Area Start-->
+<div id="footer-area" class="footer-area">
+    
+    <!--Footer Top-->
+    <div class="footer-top overlay pb-75 pt-75">
+        <div class="container">
+            <div class="row">
+               
+                <div class="col-xs-12 text-center">
+                    <img src="img/footer-logo.png" alt="">
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have <br>suffered alteration in some form, by injected humour,</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    <!--Footer Bottom-->
+    <div class="footer-bottom pb-50 pt-80">
+        <div class="container">
+            <div class="row">
+               
+                <!--Footer Widget Contact Info-->
+                <div class="footer-widget col-md-3 col-sm-6 col-xs-12 mb-30">
+                    <h4>CONTACT US</h4>
+                    <div class="contact-info fix">
+                        <p>Your address goes here, stree <br>Cross road 123.</p>
+                        <ul>
+                            <li><span>phone :</span> 99 55 66 88 526</li>
+                            <li><span>fax :</span> 55 44 77 62</li>
+                            <li><span>email :</span> ena@email.com</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!--Footer Widget Album-->
+                <div class="footer-widget col-lg-3 col-lg-offset-1 col-md-4 col-sm-6 col-xs-12 float-right mb-30">
+                    <h4>new album</h4>
+                    <ul class="footer-album">
+                        <li><a href="javascript:void(0)"><img src="img/album/1.jpg" alt=""></a></li>
+                        <li><a href="javascript:void(0)"><img src="img/album/2.jpg" alt=""></a></li>
+                        <li><a href="javascript:void(0)"><img src="img/album/3.jpg" alt=""></a></li>
+                        <li><a href="javascript:void(0)"><img src="img/album/4.jpg" alt=""></a></li>
+                        <li><a href="javascript:void(0)"><img src="img/album/5.jpg" alt=""></a></li>
+                        <li><a href="javascript:void(0)"><img src="img/album/6.jpg" alt=""></a></li>
+                    </ul>
+                </div>
+                
+                <!--Footer Widget Contact Form-->
+                <div class="footer-widget col-md-5 col-xs-12 mb-30">
+                    <h4>GET IN TOUCH</h4>
+                    <form id="contact-form" action="mail.php" method="post">
+                        <div class="input-box-2">
+                            <div class="input-box"><input name="name" type="text" placeholder="your name"></div>
+                            <div class="input-box"><input name="email" type="email" placeholder="your email"></div>
+                        </div>
+                        <div class="input-box"><textarea name="message" placeholder="your massage"></textarea></div>
+                        <div class="input-box"><button class="btn btn-round" type="submit">submit</button></div>
+                    </form>
+					<p class="form-messege"></p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    <!--Footer Copuright-->
+    <div class="footer-copyright">
+        <div class="container">
+            <div class="row">
+               
+                <div class="copyright text-center col-xs-12">
+                    <p>Copyright© <span>Ganpoka</span> 2016.All right reserved.Created by <a href="https://devitems.com">Devitems</a></p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+<!--Footer Area End-->
+
+</div>
+<!-- Body main wrapper end -->
+
+<!-- JS -->
+
+<!-- jQuery JS
+============================================ -->
+<script src="js/vendor/jquery-1.12.0.min.js"></script>
+<!-- Bootstrap JS
+============================================ -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Plugins JS
+============================================ -->
+<script src="js/plugins.js"></script>
+<!-- Ajax Mail JS
+============================================ -->
+<script src="js/ajax-mail.js"></script>
+<!-- Main JS
+============================================ -->
+<script src="js/main.js"></script>
+</body>
+
+</html>
