@@ -1385,7 +1385,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       right: 10px;
       top: 10px;
       bottom: 10px;
-      background-color: #f65589;
+    
       opacity: 0;
       z-index: 1;
       content: ""; }
